@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Get Movie with Axios [Demo](https://hisyammaulana.github.io/movie-axios).
 
 ## Available Scripts
 
